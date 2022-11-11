@@ -8,22 +8,24 @@ The table shows:
 - Brief description
 
 
-## Geospatial lists
+
+## :open_book: Geospatial lists
 
 | Name | GitHub Repository | Description |
 |:--------------------:|:-----------------------:|:-----------------:|
 |Awesome Geospatial| <a href="https://github.com/sacridini/Awesome-Geospatial" target="_blank">GitHub link</a> | Long list of geospatial analysis tools. Geospatial analysis, or just spatial analysis, is an approach to applying statistical analysis and other analytic techniques to data which has a geographical or spatial aspect. |
 |satellite-image-deep-learning| <a href="https://github.com/robmarkcole/satellite-image-deep-learning" target="_blank">GitHub link</a> | This repository lists resources on the topic of deep learning applied to satellite and aerial imagery. To a lesser extent classical machine learning techniques are listed, as are topics such as cloud computing and model deployment. |
 
-## Earth Observation
+## :artificial_satellite: Earth Observation
 
 | Name | Documentation | GitHub Repository | Description |
 |:--------------------:|:-----------------------:|:-----------------:|:-----------------:|
 |Raster4ML| <a href="https://raster4ml.readthedocs.io/" target="_blank">Doc link</a> | <a href="https://github.com/remotesensinglab/raster4ml" target="_blank">GitHub link</a> | Raster4ML is a python package that extracts machine learning ready dataset from geospatial raster data and shapefiles. The package aims to aid geospatial researchers and scientists to extract meaningful faetures easily and focus more on the model training or reproducibility issues. |
+|ee| <a href="https://gee-python-api.readthedocs.io/en/latest/ee.html" target="_blank">Doc link</a> | <a href="https://github.com/google/earthengine-api" target="_blank">GitHub link</a> |Python and JavaScript client libraries for calling the Google Earth Engine API. |
 |geemap| <a href="https://geemap.org/" target="_blank">Doc link</a> | <a href="https://github.com/giswqs/geemap" target="_blank">GitHub link</a> | A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.|
 |EODAG| <a href="https://eodag.readthedocs.io/en/latest/" target="_blank">Doc link</a> | <a href="https://github.com/CS-SI/eodag" target="_blank">GitHub link</a> | EODAG (Earth Observation Data Access Gateway) is a command line tool and a plugin-oriented Python framework for searching, aggregating results and downloading remote sensed images while offering a unified API for data access regardless of the data provider. |
 
-## GIS
+## :earth_americas: GIS
 
 | Name | Documentation | GitHub Repository | Description |
 |:--------------------:|:-----------------------:|:-----------------:|:-----------------:|
@@ -31,18 +33,19 @@ The table shows:
 |MGWR| - | <a href="https://github.com/pysal/mgwr" target="_blank">GitHub link</a> | This module provides functionality to calibrate multiscale (M)GWR as well as traditional GWR. It is built upon the sparse generalized linear modeling (spglm) module. |
 |Shapely| <a href="https://shapely.readthedocs.io/en/stable/manual.html/" target="_blank">Doc link</a> | <a href="https://github.com/shapely/shapely" target="_blank">GitHub link</a> | Manipulation and analysis of geometric objects in the Cartesian plane. |
 
-## Machine Learning
+## :computer: Machine Learning
 
 | Name | Documentation | GitHub Repository | Description |
 |:--------------------:|:-----------------------:|:-----------------:|:-----------------:|
 |SHAP| <a href="https://shap.readthedocs.io/en/latest/index.html" target="_blank">Doc link</a> | <a href="https://github.com/slundberg/shap/blob/master/docs/index.rst" target="_blank">GitHub link</a> | SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model. It connects optimal credit allocation with local explanations using the classic Shapley values from game theory and their related extensions |
 
 
-## General use libraries
+## :wrench: General use libraries
 
 | Name | Documentation | GitHub Repository | Description |
 |:--------------------:|:-----------------------:|:-----------------:|:-----------------:|
 |JupyterBook| <a href="https://jupyterbook.org/intro.html" target="_blank">Doc link</a> | <a href="https://github.com/executablebooks/jupyter-book" target="_blank">GitHub link</a> | Jupyter Book is an open-source tool for building publication-quality books and documents from computational material. |
+|leafmap| <a href="https://leafmap.org/" target="_blank">Doc link</a> | <a href="https://github.com/giswqs/leafmap" target="_blank">GitHub link</a> | A Python package for geospatial analysis and interactive mapping in a Jupyter environment. |
 
 # Trainings
 

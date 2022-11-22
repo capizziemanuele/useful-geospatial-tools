@@ -55,12 +55,6 @@ The table shows:
 |gradio| <a href="https://gradio.app/" target="_blank">Doc link</a> | <a href="https://github.com/gradio-app/gradio" target="_blank">GitHub link</a> | Gradio is an open-source Python library that is used to build machine learning and data science demos and web applications. |
 |Torchgeo| <a href="https://torchgeo.readthedocs.io/en/stable/" target="_blank">Doc link</a> | <a href="https://github.com/microsoft/torchgeo" target="_blank">GitHub link</a> | TorchGeo is a PyTorch domain library, similar to torchvision, providing datasets, samplers, transforms, and pre-trained models specific to geospatial data. |
 
-## :paintbrush: Plot libraries
-
-| Name | Documentation | GitHub Repository | Description |
-|:--------------------:|:-----------------------:|:-----------------:|:-----------------:|
-|plotly| <a href="https://plotly.com/python/" target="_blank">Doc link</a> | <a href="https://github.com/plotly/plotly.py" target="_blank">GitHub link</a> | Plotly's Python graphing library makes interactive, publication-quality graphs. |
-
 ## :gear: Interactivity & Visualization
 
 | Name | Documentation | GitHub Repository | Description |
@@ -76,6 +70,7 @@ The table shows:
 |HoloViews| <a href="https://holoviews.org/" target="_blank">Doc link</a> | <a href="https://github.com/holoviz/holoviews" target="_blank">GitHub link</a> | HoloViews is an open-source Python library designed to make data analysis and visualization seamless and simple. With HoloViews, you can usually express what you want to do in very few lines of code, letting you focus on what you are trying to explore and convey, not on the process of plotting. |
 |Panel| <a href="https://panel.holoviz.org/" target="_blank">Doc link</a> | <a href="https://github.com/holoviz/panel" target="_blank">GitHub link</a> | Panel provides tools for easily composing widgets, plots, tables, and other viewable objects and controls into custom analysis tools, apps, and dashboards. Panel works with visualizations from Altair, Bokeh, HoloViews, Matplotlib, Plotly, pydeck, PyVista and many other Python plotting libraries, making them instantly viewable either individually or when combined with interactive widgets that control them. |
 |Mito Spreadsheets| <a href="https://docs.trymito.io/getting-started/installing-mito" target="_blank">Doc link</a> | <a href="https://github.com/mito-ds/monorepo" target="_blank">GitHub link</a> | Mito is a spreadsheet that lives inside your JupyterLab notebooks. It allows you to edit Pandas dataframes like an Excel file, and generates Python code that corresponds to each of your edits. |
+|plotly| <a href="https://plotly.com/python/" target="_blank">Doc link</a> | <a href="https://github.com/plotly/plotly.py" target="_blank">GitHub link</a> | Plotly's Python graphing library makes interactive, publication-quality graphs. |
 
 ## :camera: 3D
 | Name | Documentation | GitHub Repository | Description |

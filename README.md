@@ -101,8 +101,7 @@ The table shows:
 
 ## GIS & Earth Observation
 
-| Na
-| Link | Description |
+| Name | Link | Description |
 |:--------------------:|:-----------------------:|:-----------------:|
 |WEkEO| <a href="https://github.com/wekeo" target="_blank">Link</a> | Trainings provided by WEkEO DIAS. |
 |Data Carpentry| <a href="https://carpentries-incubator.github.io/geospatial-python/" target="_blank">Link</a> | Data Carpentry’s aim is to teach researchers basic concepts, skills, and tools for working with data so that they can get more done in less time, and with less pain. |

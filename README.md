@@ -13,6 +13,8 @@ The table shows:
 |:--------------------:|:-----------------------:|:-----------------:|
 |Awesome Geospatial| <a href="https://github.com/sacridini/Awesome-Geospatial" target="_blank">GitHub link</a> | Long list of geospatial analysis tools. Geospatial analysis, or just spatial analysis, is an approach to applying statistical analysis and other analytic techniques to data which has a geographical or spatial aspect. |
 |satellite-image-deep-learning| <a href="https://github.com/robmarkcole/satellite-image-deep-learning" target="_blank">GitHub link</a> | This repository lists resources on the topic of deep learning applied to satellite and aerial imagery. To a lesser extent classical machine learning techniques are listed, as are topics such as cloud computing and model deployment. |
+|awesome-gee-community-datasets| <a href="https://github.com/samapriya/awesome-gee-community-datasets" target="_blank">GitHub link</a> | The awesome-gee-community-datasets are community-sourced geospatial datasets made available for use by the larger Google Earth Engine community and shared publicly as Earth Engine assets. |
+|Awesome Earth Engine| <a href="https://github.com/giswqs/Awesome-GEE" target="_blank">GitHub link</a> | A curated list of Google Earth Engine resources. Please visit the Awesome-GEE GitHub repo if you want to contribute to this project. |
 
 ## :artificial_satellite: Earth Observation
 
@@ -46,6 +48,8 @@ The table shows:
 |gstools| <a href="https://geostat-framework.readthedocs.io/en/latest/#gstools" target="_blank">Doc link</a> | <a href="https://github.com/GeoStat-Framework/GSTools" target="_blank">GitHub link</a> | GeoStatTools provides geostatistical tools for various purposes. |
 |Spatialpandas| <a href="-" target="_blank">Doc link</a> | <a href="https://github.com/holoviz/spatialpandas" target="_blank">GitHub link</a> | Spatialpandas provides Pandas and Dask extensions for vectorized spatial and geometric operations, such as fast, spatially indexed rendering of large collections of polygons, lines, or points. |
 |GeoParquet| <a href="-" target="_blank">Doc link</a> | <a href="https://github.com/opengeospatial/geoparquet" target="_blank">GitHub link</a> | This repository defines how to store geospatial vector data (point, lines, polygons) in Parquet, a popular columnar storage format for tabular data. |
+|SciKit GStat| <a href="https://scikit-gstat.readthedocs.io/en/latest/index.html" target="_blank">Doc link</a> | <a href="https://github.com/mmaelicke/scikit-gstat" target="_blank">GitHub link</a> | SciKit-Gstat is a scipy-styled analysis module for geostatistics. It includes two base classes Variogram and OrdinaryKriging. Additionally, various variogram classes inheriting from Variogram are available for solving directional or space-time related tasks. |
+|R terra| <a href="https://cran.r-project.org/web/packages/terra/index.html" target="_blank">Doc link</a> | <a href="https://github.com/rspatial/terra" target="_blank">GitHub link</a> | terra is an R package for spatial data analysis. Methods for spatial data analysis with vector (points, lines, polygons) and raster (grid) data. Methods for vector data include standard operations such as intersect and buffer. Raster methods include global, local, zonal, and focal computations. The predict and interpolate methods facilitate the use of regression type (interpolation, machine learning) models for spatial prediction, including with satellite remote sensing data. Processing of very large files is supported. |
 
 ## :computer: Data Science & Machine Learning/Deep Learning
 
@@ -101,3 +105,23 @@ The table shows:
 |:--------------------:|:-----------------------:|:-----------------:|
 |WEkEO| <a href="https://github.com/wekeo" target="_blank">Link</a> | Trainings provided by WEkEO DIAS. |
 |Data Carpentry| <a href="https://carpentries-incubator.github.io/geospatial-python/" target="_blank">Link</a> | Data Carpentry’s aim is to teach researchers basic concepts, skills, and tools for working with data so that they can get more done in less time, and with less pain. |
+|Trainings list - EUMETSAT| <a href="https://training.eumetsat.int/course/index.php?categoryid=97" target="_blank">Link</a> | List of trainings and tutorials available from EUMETSAT. |
+|Data Access Services - EUMETSAT| <a href="https://training.eumetsat.int/course/view.php?id=436" target="_blank">Link</a> | Tutorials and trainings about Data Access Services provided by EUMETSAT platform. |
+|EUMETSAT Atlassian| <a href="https://eumetsatspace.atlassian.net/wiki/home" target="_blank">Link</a> | Information about EUMETSAT services, products, data format etc. |
+|RUS Copernicus (Research and User Support)| <a href="https://rus-copernicus.eu/portal/the-rus-offer/training/" target="_blank">Link</a> | Trainings sessions and webinars provided by RUS Service. |
+|EUMETSAT Training HUB - Jupyter Notebooks| <a href="https://trainhub.eumetsat.int/atmosphere/20_data_discovery" target="_blank">Link</a> | Jupyter notebooks available for satellite data processing and visualization. |
+|Copernicus CAMS & C3S Jupyter Notebooks| <a href="https://github.com/ecmwf-projects/copernicus-training" target="_blank">Link</a> | This repository hosts Jupyter notebook training material for the Copernicus Climate Change Service (C3S) and the Copernicus Atmosphere Monitoring Service (CAMS). |
+|LTPy - a Jupyter-based Learning Tool for Atmospheric Composition Datas| <a href="https://login.ltpy.adamplatform.eu/authentication/login/?next=/" target="_blank">Link</a> | LTPy is based on Jupyter notebooks and has a modular approach, with learning modules on data access, data processing, data visualization and a set of example workflows to support relevant atmospheric applications. |
+|NASA Arset Trainings | <a href="https://appliedsciences.nasa.gov/join-mission/training" target="_blank">Link</a> | NASA Arset Training list related to multiple topics. |
+|Copernicus Land Interactive Notebooks - Terrascope service| <a href="https://land.copernicus.eu/global/access" target="_blank">Link</a> | Interactive notebooks from Copernicus Land Terrascope. |
+|geemap/leafmap tutorials| <a href="https://www.youtube.com/c/QiushengWu/videos" target="_blank">Link</a> | Youtube tutorial about geemap/leafmap and other tools/software.|
+|ACGeospatial| <a href="https://github.com/acgeospatial" target="_blank">Link</a> |Earth Observation, Geospatial, GIS, Satellite imagery, Python, Julia, courses, training.|
+|Pratt SAVI 810 - Intro to Python Scripting for Geospatial| <a href="https://github.com/pratt-savi-810" target="_blank">Link</a> |Introduction to Python Scripting for Geospatial analysis.|
+|S5P-Tools| <a href="https://github.com/bilelomrani1/s5p-tools" target="_blank">Link</a> |Scripts to download and process air-pollution data collected by the satellite Sentinel-5P from the Copernicus Open Access Hub. The collect is based on the sentinelsat package and the API Hub Access. L3 resampling is made with HARP tools.|
+|COURSE: Artificial Intelligence (AI) for Earth Monitoring| <a href="https://www.futurelearn.com/courses/artificial-intelligence-for-earth-monitoring" target="_blank">Link</a> |Explore how artificial intelligence (AI) and machine learning (ML) technologies are helping to advance Earth monitoring.|
+
+## Computer Science
+
+| Name | Link | Description |
+|:--------------------:|:-----------------------:|:-----------------:|
+|Computer Science courses| <a href="https://github.com/Developer-Y/cs-video-courses" target="_blank">Link</a> | Computer Science courses with video lectures. |

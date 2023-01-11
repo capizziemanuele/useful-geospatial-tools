@@ -1,11 +1,7 @@
 # Geospatial Tools
 
-This is a list of Python geospatial tools and libraries that can be useful to GIS or EO users. It contains also references to Machine Learning and Deep Learning libraries.
-The table shows:
-- Name
-- Documentation page
-- GitHub repository
-- Brief description
+This is a list of Python geospatial tools and libraries.
+
 
 ## :open_book: Geospatial lists
 

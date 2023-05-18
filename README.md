@@ -27,6 +27,7 @@ This is a list of Python geospatial tools and libraries.
 |EOEPCA System| <a href="https://eoepca.org/software/" target="_blank">Doc link</a> | <a href="https://github.com/EOEPCA" target="_blank">GitHub link</a> | "A selection of building blocks are available, addressing the three key domains identified in the architecture: Resource Management - catalogue and discovery of data and applications. Processing and Chaining - deployment and execution of applications. User Management - identity, security, access control and accounting" |
 |MetPy| <a href="https://unidata.github.io/MetPy/latest/examples/index.html"  target="_blank">Doc link</a> | <a href="https://github.com/Unidata/MetPy" target="_blank">GitHub link</a> | MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data. |
 |Museo ToolBox| <a href="https://github.com/nkarasiak/MuseoToolBox"  target="_blank">Doc link</a> | <a href="https://museotoolbox.readthedocs.io/en/latest/?badge=latest" target="_blank">GitHub link</a> | Museo ToolBox is a python library to simplify the use of raster/vector, especially for machine learning and remote sensing. It is now easy to extract raster values from vector polygons and to do some spatial/unspatial cross-validation for scikit-learn from raster. |
+|rastervision| <a href="https://docs.rastervision.io/en/stable/?badge=stable"  target="_blank">Doc link</a> | <a href="https://github.com/azavea/raster-vision" target="_blank">GitHub link</a> | Raster Vision is an open source Python library and framework for building computer vision models on satellite, aerial, and other large imagery sets (including oblique drone imagery). |
 
 
 ## :earth_americas: GIS
@@ -117,6 +118,7 @@ This is a list of Python geospatial tools and libraries.
 |Pratt SAVI 810 - Intro to Python Scripting for Geospatial| <a href="https://github.com/pratt-savi-810" target="_blank">Link</a> |Introduction to Python Scripting for Geospatial analysis.|
 |S5P-Tools| <a href="https://github.com/bilelomrani1/s5p-tools" target="_blank">Link</a> |Scripts to download and process air-pollution data collected by the satellite Sentinel-5P from the Copernicus Open Access Hub. The collect is based on the sentinelsat package and the API Hub Access. L3 resampling is made with HARP tools.|
 |COURSE: Artificial Intelligence (AI) for Earth Monitoring| <a href="https://www.futurelearn.com/courses/artificial-intelligence-for-earth-monitoring" target="_blank">Link</a> |Explore how artificial intelligence (AI) and machine learning (ML) technologies are helping to advance Earth monitoring.|
+|EUMETlab| <a href="https://gitlab.eumetsat.int/eumetlab" target="_blank">Link</a> | This page contains groups of code repositories that have been made open to the public by EUMETSAT and our collaborators. |
 
 ## Computer Science
 

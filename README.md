@@ -28,7 +28,7 @@ This is a list of Python geospatial tools and libraries.
 |MetPy| <a href="https://unidata.github.io/MetPy/latest/examples/index.html"  target="_blank">Doc link</a> | <a href="https://github.com/Unidata/MetPy" target="_blank">GitHub link</a> | MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data. |
 |Museo ToolBox| <a href="https://github.com/nkarasiak/MuseoToolBox"  target="_blank">Doc link</a> | <a href="https://museotoolbox.readthedocs.io/en/latest/?badge=latest" target="_blank">GitHub link</a> | Museo ToolBox is a python library to simplify the use of raster/vector, especially for machine learning and remote sensing. It is now easy to extract raster values from vector polygons and to do some spatial/unspatial cross-validation for scikit-learn from raster. |
 |rastervision| <a href="https://docs.rastervision.io/en/stable/?badge=stable"  target="_blank">Doc link</a> | <a href="https://github.com/azavea/raster-vision" target="_blank">GitHub link</a> | Raster Vision is an open source Python library and framework for building computer vision models on satellite, aerial, and other large imagery sets (including oblique drone imagery). |
-
+|EOReader| <a href="https://eoreader.readthedocs.io/en/latest/"  target="_blank">Doc link</a> | <a href="https://github.com/sertit/eoreader" target="_blank">GitHub link</a> | EOReader is a remote-sensing opensource python library reading optical and SAR constellations, loading and stacking bands, clouds, DEM and spectral indices in a sensor-agnostic way. |
 
 ## :earth_americas: GIS
 

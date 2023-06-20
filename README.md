@@ -1,6 +1,6 @@
 # Geospatial Tools
 
-This is a list of Python geospatial tools and libraries.
+This is a list of geospatial tools and libraries.
 
 
 ## :open_book: Geospatial lists

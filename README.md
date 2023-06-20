@@ -98,7 +98,7 @@ This is a list of Python geospatial tools and libraries.
 
 ## Websites
 | Name | Link | Description |
-|:--------------------:|:-----------------------:|:-----------------:|:-----------------:|
+|:--------------------:|:-----------------:|:-----------------:|
 |Sentinel-2 UTM Tiling Grid (ESA)| <a href="https://eatlas.org.au/data/uuid/f7468d15-12be-4e3f-a246-b2882a324f59" target="_blank">Link</a> | This dataset shows the tiling grid and their IDs for Sentinel 2 satellite imagery. The tiling grid IDs are useful for selecting imagery of an area of interest. |
 |Spectator Earth| <a href="https://spectator.earth/" target="_blank">Link</a> | Real-Time Satellite Position Monitoring and Imagery Access. |
 

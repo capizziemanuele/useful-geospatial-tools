@@ -108,6 +108,7 @@ This is a list of geospatial tools and libraries.
 
 | Name | Link | Description |
 |:--------------------:|:-----------------------:|:-----------------:|
+|E-TRAINEE| <a href="https://3dgeo-heidelberg.github.io/etrainee/index.html" target="_blank">Link</a> | E-learning course on Time Series Analysis in Remote Sensing for Understanding Human-Environment Interactions (E-TRAINEE) was developed by collaboration of research groups from four partner universities – Charles University, Heidelberg University, University of Innsbruck, and University of Warsaw within the ERASMUS+ Strategic partnership project (ID 2020-1-CZ01-KA203-078308). |
 |WEkEO| <a href="https://github.com/wekeo" target="_blank">Link</a> | Trainings provided by WEkEO DIAS. |
 |Data Carpentry| <a href="https://carpentries-incubator.github.io/geospatial-python/" target="_blank">Link</a> | Data Carpentry’s aim is to teach researchers basic concepts, skills, and tools for working with data so that they can get more done in less time, and with less pain. |
 |Trainings list - EUMETSAT| <a href="https://training.eumetsat.int/course/index.php?categoryid=97" target="_blank">Link</a> | List of trainings and tutorials available from EUMETSAT. |

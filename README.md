@@ -35,6 +35,7 @@ This is a list of geospatial tools and libraries.
 | Name | Documentation | GitHub Repository | Description |
 |:--------------------:|:-----------------------:|:-----------------:|:-----------------:|
 |geopandas| <a href="https://geopandas.org/en/stable/" target="_blank">Doc link</a> | <a href="https://github.com/geopandas/geopandas" target="_blank">GitHub link</a> | GeoPandas is a project to add support for geographic data to pandas objects. |
+|dask-geopandas| <a href="https://dask-geopandas.readthedocs.io/en/latest/?badge=latest" target="_blank">Doc link</a> | <a href="https://github.com/geopandas/dask-geopandas" target="_blank">GitHub link</a> | Dask-GeoPandas is a project merging the geospatial capabilities of GeoPandas and scalability of Dask. |
 |MGWR| - | <a href="https://github.com/pysal/mgwr" target="_blank">GitHub link</a> | This module provides functionality to calibrate multiscale (M)GWR as well as traditional GWR. It is built upon the sparse generalized linear modeling (spglm) module. |
 |Shapely| <a href="https://shapely.readthedocs.io/en/stable/manual.html/" target="_blank">Doc link</a> | <a href="https://github.com/shapely/shapely" target="_blank">GitHub link</a> | Manipulation and analysis of geometric objects in the Cartesian plane. |
 |rasterio| <a href="https://rasterio.readthedocs.io/en/latest/" target="_blank">Doc link</a> | <a href="https://github.com/rasterio/rasterio" target="_blank">GitHub link</a> | Rasterio reads and writes geospatial raster data. |
